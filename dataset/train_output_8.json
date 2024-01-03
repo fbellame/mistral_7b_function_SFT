@@ -1,0 +1,30 @@
+{
+  "params": {
+    "questions": [
+      {
+        "question": "What is the primary function of money?",
+        "A": "To serve as a means of cultural expression",
+        "B": "To act as a medium of exchange",
+        "C": "To create social hierarchies",
+        "D": "To facilitate artistic endeavors",
+        "reponse": "B"
+      },
+      {
+        "question": "Which country is known for introducing paper money to the world?",
+        "A": "Greece",
+        "B": "India",
+        "C": "China",
+        "D": "Egypt",
+        "reponse": "C"
+      },
+      {
+        "question": "What term describes the decrease in the purchasing power of money, reflected in a general increase in prices?",
+        "A": "Deflation",
+        "B": "Inflation",
+        "C": "Stagnation",
+        "D": "Appreciation",
+        "reponse": "B"
+      }
+    ]
+  }
+}

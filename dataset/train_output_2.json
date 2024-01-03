@@ -1,0 +1,22 @@
+{
+  "params": {
+    "questions": [
+      {
+        "question": "What is the capital city of France?",
+        "A": "Paris",
+        "B": "Berlin",
+        "C": "Madrid",
+        "D": "London",
+        "reponse": "A"
+      },
+      {
+        "question": "Which city is known as the 'Big Apple'?",
+        "A": "Los Angeles",
+        "B": "New York City",
+        "C": "Chicago",
+        "D": "San Francisco",
+        "reponse": "B"
+      }
+    ]
+  }
+}

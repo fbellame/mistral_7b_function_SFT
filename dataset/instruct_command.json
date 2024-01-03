@@ -1,0 +1,14 @@
+{
+  "params": {
+    "questions": [
+      {
+        "question": "question 1",
+        "A": "choice A",
+        "B": "choice B",
+        "C": "choice C",
+        "D": "choice D",
+        "reponse": "right answer A or B or C or D"
+      }
+    ]
+  }
+}

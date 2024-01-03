@@ -1,0 +1,30 @@
+{
+  "params": {
+    "questions": [
+      {
+        "question": "What is the process called by which trees convert sunlight into energy?",
+        "A": "Photosynthesis",
+        "B": "Respiration",
+        "C": "Transpiration",
+        "D": "Fermentation",
+        "reponse": "A"
+      },
+      {
+        "question": "Which tree is known for its ability to survive in very cold climates and is often associated with Christmas?",
+        "A": "Oak",
+        "B": "Maple",
+        "C": "Palm",
+        "D": "Spruce",
+        "reponse": "D"
+      },
+      {
+        "question": "What part of the tree is primarily responsible for water and nutrient absorption from the soil?",
+        "A": "Leaves",
+        "B": "Roots",
+        "C": "Bark",
+        "D": "Branches",
+        "reponse": "B"
+      }
+    ]
+  }
+}

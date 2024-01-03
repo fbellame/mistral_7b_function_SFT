@@ -1,0 +1,30 @@
+{
+  "params": {
+    "questions": [
+      {
+        "question": "Which programming language is known for its use in web development, particularly for its role in building the dynamic aspects of websites?",
+        "A": "C++",
+        "B": "Python",
+        "C": "JavaScript",
+        "D": "Java",
+        "reponse": "C"
+      },
+      {
+        "question": "In object-oriented programming, which language introduced the concept of 'classes' and later influenced many modern programming languages?",
+        "A": "Python",
+        "B": "Simula",
+        "C": "Java",
+        "D": "Ruby",
+        "reponse": "B"
+      },
+      {
+        "question": "Which language is primarily used for statistical analysis and data manipulation, known for its packages like 'ggplot2' and 'dplyr'?",
+        "A": "R",
+        "B": "MATLAB",
+        "C": "Python",
+        "D": "Julia",
+        "reponse": "A"
+      }
+    ]
+  }
+}

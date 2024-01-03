@@ -1,0 +1,21 @@
+Question: What does 'CPU' stand for in computer terminology?
+
+A: Central Processing Unit
+B: Computer Processing Unit
+C: Central Performance Unit
+D: Computer Performance Unit
+Correct Answer: A
+Question: Which company developed the Windows operating system?
+
+A: Apple
+B: Microsoft
+C: IBM
+D: Google
+Correct Answer: B
+Question: What is the main function of a computer's RAM?
+
+A: Store data permanently
+B: Process graphics
+C: Store data temporarily for quick access
+D: Power the computer
+Correct Answer: C

@@ -1,0 +1,28 @@
+Question: When fine-tuning a Large Language Model (LLM), what is essential to monitor to prevent overfitting?
+
+A: The size of the model
+B: The diversity of training data
+C: The training time
+D: Validation loss
+Correct Answer: D
+Question: In the context of fine-tuning an LLM, what does 'data leakage' refer to?
+
+A: The accidental inclusion of test data in the training set
+B: Loss of data during the training process
+C: Inefficient use of computational resources
+D: Excessive consumption of electricity
+Correct Answer: A
+Question: Why is it important to use a diverse dataset for fine-tuning an LLM?
+
+A: To ensure faster training times
+B: To reduce computational costs
+C: To enhance the model's ability to generalize
+D: To simplify the training process
+Correct Answer: C
+Question: What should be done if the fine-tuned LLM shows signs of bias?
+
+A: Increase the size of the model
+B: Reduce the complexity of tasks
+C: Reassess and diversify the training data
+D: Limit the model's usage
+Correct Answer: C

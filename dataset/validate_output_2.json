@@ -1,0 +1,22 @@
+{
+  "params": {
+    "questions": [
+      {
+        "question": "What is the origin of the Christmas tree tradition?",
+        "A": "Ancient Rome",
+        "B": "Victorian England",
+        "C": "Medieval Germany",
+        "D": "Renaissance France",
+        "reponse": "C"
+      },
+      {
+        "question": "Which country is credited with starting the tradition of exchanging gifts on Christmas?",
+        "A": "Italy",
+        "B": "France",
+        "C": "England",
+        "D": "Germany",
+        "reponse": "D"
+      }
+    ]
+  }
+}

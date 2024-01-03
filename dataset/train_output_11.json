@@ -1,0 +1,38 @@
+{
+  "params": {
+    "questions": [
+      {
+        "question": "What is the primary purpose of fine-tuning a Large Language Model (LLM)?",
+        "A": "To reduce its overall size",
+        "B": "To improve its performance on specific tasks",
+        "C": "To enhance its general knowledge",
+        "D": "To increase its processing speed",
+        "reponse": "B"
+      },
+      {
+        "question": "Which method is commonly used for fine-tuning LLMs?",
+        "A": "Supervised learning",
+        "B": "Reinforcement learning",
+        "C": "Unsupervised learning",
+        "D": "Transfer learning",
+        "reponse": "D"
+      },
+      {
+        "question": "What type of data is crucial for effective fine-tuning of an LLM?",
+        "A": "Highly diverse data",
+        "B": "Task-specific data",
+        "C": "Large volumes of general data",
+        "D": "Only textual data",
+        "reponse": "B"
+      },
+      {
+        "question": "What is a potential risk of fine-tuning an LLM?",
+        "A": "Reducing its ability to generalize",
+        "B": "Increasing its computational requirements",
+        "C": "Diminishing its language understanding",
+        "D": "All of the above",
+        "reponse": "A"
+      }
+    ]
+  } 
+}

@@ -1,0 +1,14 @@
+Question: What is the capital city of France?
+
+A: Paris
+B: Berlin
+C: Madrid
+D: London
+Correct Answer: A
+Question: Which city is known as the 'Big Apple'?
+
+A: Los Angeles
+B: New York City
+C: Chicago
+D: San Francisco
+Correct Answer: B

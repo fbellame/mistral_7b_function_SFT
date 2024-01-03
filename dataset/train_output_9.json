@@ -1,0 +1,14 @@
+{
+  "params": {
+    "questions": [
+      {
+        "question": "Who is considered the father of artificial intelligence?",
+        "A": "Alan Turing",
+        "B": "John McCarthy",
+        "C": "Elon Musk",
+        "D": "Stephen Hawking",
+        "reponse": "B"
+      }
+    ]
+  }
+}

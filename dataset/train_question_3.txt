@@ -1,0 +1,7 @@
+Question: Which country is known as the Land of the Rising Sun?
+
+A: China
+B: South Korea
+C: Japan
+D: Thailand
+Correct Answer: C

@@ -1,0 +1,8 @@
+Question: What distinguishes Artificial General Intelligence (AGI) from Narrow AI?
+
+A: AGI can perform any intellectual task that a human being can.
+B: AGI is limited to specific tasks.
+C: AGI requires human intervention to learn.
+D: AGI is another term for machine learning.
+
+Correct answer: A

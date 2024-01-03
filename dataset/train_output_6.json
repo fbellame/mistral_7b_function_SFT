@@ -1,0 +1,22 @@
+{
+  "params": {
+    "questions": [
+      {
+        "question": "What is the largest part of a mushroom typically found underground?",
+        "A": "Cap",
+        "B": "Stipe",
+        "C": "Mycelium",
+        "D": "Gills",
+        "reponse": "C"
+      },
+      {
+        "question": "Which mushroom is known for its distinctive red cap with white spots?",
+        "A": "Shiitake",
+        "B": "Portobello",
+        "C": "Fly Agaric",
+        "D": "Chanterelle",
+        "reponse": "C"
+      }
+    ]
+  }
+}

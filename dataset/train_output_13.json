@@ -1,0 +1,30 @@
+{
+  "params": {
+    "questions": [
+      {
+        "question": "Which band is known for the iconic album \"Dark Side of the Moon\"?",
+        "A": "The Rolling Stones",
+        "B": "Pink Floyd",
+        "C": "Led Zeppelin",
+        "D": "The Beatles",
+        "reponse": "B"
+      },
+      {
+        "question": "Who is the legendary guitarist known for his rendition of \"The Star-Spangled Banner\" at Woodstock?",
+        "A": "Eric Clapton",
+        "B": "Jimi Hendrix",
+        "C": "Jimmy Page",
+        "D": "Keith Richards",
+        "reponse": "B"
+      },
+      {
+        "question": "What is the title of Queen's song that became famous for its operatic sections and unique structure?",
+        "A": "We Will Rock You",
+        "B": "Bohemian Rhapsody",
+        "C": "Killer Queen",
+        "D": "Another One Bites the Dust",
+        "reponse": "B"
+      }
+    ]
+  }
+}
